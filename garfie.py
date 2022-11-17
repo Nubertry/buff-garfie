@@ -9,7 +9,7 @@ img4 = Image.open('GarfImages/garf4.jpg')
 
 zoop = True
 
-if (zoop==True):
+while (zoop==True):
     img1.show()
     img2.show()
     img3.show()
